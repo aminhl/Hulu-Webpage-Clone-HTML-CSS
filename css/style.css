@@ -114,4 +114,18 @@ h4{
     margin: 25px 0;
 }
 
+/* Start Media Queries */
+@media(max-width: 768px){
+    .header .logo{
+        width: 200px;
+    }
+
+    .header .header-content{
+        text-align: center;
+        padding: 0 20px;
+    }
+}
+
+/* End Media Queries */
+
 /* End Header */
